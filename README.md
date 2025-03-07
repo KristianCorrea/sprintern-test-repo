@@ -1,3 +1,3 @@
-# sprintern-test-repo
+# Kristian's repo!
 
 Hello, I changed your readme.
